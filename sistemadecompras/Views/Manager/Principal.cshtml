@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1 " />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/style-css.css" rel="stylesheet" />
+    <link href="~/Content/_Header.css" rel="stylesheet" />
+    <link href="~/Content/_Nav.css" rel="stylesheet" />
+    <link href="~/Content/_Footer.css" rel="stylesheet" />
+    <title>Principal</title>
+</head>
+<style>
+    body {
+        background-color: #1e2229 !important;
+     
+    }
+</style>
+<body>
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col">
+
+                @Html.Partial("_Header")
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+
+                @Html.Partial("_Nav")
+            </div>
+        </div>
+    </div>
+    <main class="container">
+        <div class="row">
+            <div class="col full-width">
+
+                @Html.Partial("_CuadroInicio")
+                @Html.Partial("_Card")
+                @Html.Partial("_Content")
+            </div>
+        </div>
+    </main>
+    @Html.Partial("_Footer")
+</body>
+</html>

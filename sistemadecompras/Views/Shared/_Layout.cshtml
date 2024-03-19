@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/93c5f0292a.js" crossorigin="anonymous"></script>
+
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.6/umd/popper.min.js"></script>
+    <link href="~/Content/animate.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark header">
+        <div class="container">
+            @Html.ActionLink("Nombre de la aplicación", "Index", "Home", new { area = "" }, new { @class = "navbar-brand titulo-font-letter" })
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Alternar navegación" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    @{
+                        var identity = (System.Security.Claims.ClaimsPrincipal)System.Threading.Thread.CurrentPrincipal;
+                    }
+                    <li>@Html.ActionLink("Inicio", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Acerca de", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Contacto", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    @if (identity.IsInRole("Administrador") || identity.IsInRole("Invitado"))
+                    {
+                        <li>@Html.ActionLink("Subir Foto", "Subir", "Imagen", new { area = "" }, new { @class = "nav-link"  })</li>
+                        <li>@Html.ActionLink("Imprimir", "GenerarReporte", "ReportePdf", new { area = "" }, new { @class = "nav-link" })</li>
+                    }
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                            <i class="fas fa-window-maximize"></i>
+                            Cursos
+                        </a>
+                        <ul class="dropdown-menu">
+                            @if (identity.IsInRole("Administrador"))
+                            {
+                                <li>
+                                    <a href="@Url.Action("Create", "Cursos")" title="Crear" class="dropdown-item">
+                                        <i class="fas fa-tag text-primary"></i>&nbsp; Crear Curso
+                                    </a>
+                                </li>
+
+                            }
+                            <li>
+
+                                <a class="dropdown-item" href="#">
+
+
+                                    <i class="fas fa-tags text-primary"></i>
+                                    Administrar
+                                </a>
+                            </li>
+
+
+                        </ul>
+                    </li>
+
+
+                </ul>
+
+                <ul class="navbar-nav d-inline-flex flex-row-reverse">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <i class="fas fa-user"></i> @User.Identity.Name
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="@Url.Action("LogOff","Account")">
+                                        <i class="fas fa-sign-out-alt"></i> Cerrar Sesión
+                                    </a>
+                                </div>
+                            </li>
+                        </ul>
+
+                    }
+                    else
+                    {
+                        <li class="list-unstyled d-flex flex-row-reverse">
+                            <a class="dropdown-item" href="@Url.Action("Security","Account")" id="NombreUser" style="color:white">
+                                <span id="userNameSpan"><i class="fas fa-user"></i>   Iniciar Sesión</span>
+                            </a>
+                        </li>
+                    }
+                </ul>
+
+
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
+        </footer>
+    </div>
+
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

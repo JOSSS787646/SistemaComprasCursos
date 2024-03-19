@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SistemasComprasDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AlumnoCursos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="idCurso" Type="int" />
+    <Property Name="idUsuario" Type="int" Nullable="false" />
+    <Property Name="FechaInscripcion" Type="date" Nullable="false" />
+    <Property Name="BitEliminado" Type="bit" />
+  </EntityType>
+  <EntityType Name="Categorias">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="FechaCreacion" Type="date" />
+  </EntityType>
+  <EntityType Name="Cursos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="100" />
+    <Property Name="Contenido" Type="varchar(max)" />
+    <Property Name="Precio" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="FechaInicial" Type="date" />
+    <Property Name="FechaActulizacion" Type="date" />
+    <Property Name="UrlImgaenCurso" Type="varchar(max)" />
+    <Property Name="idCategoria" Type="int" />
+    <Property Name="BitEliminado" Type="bit" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="strValor" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="100" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+    <Property Name="idRol" Type="int" />
+  </EntityType>
+  <Association Name="FK__Usuarios__idRol__4AB81AF0">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Usuarios">
+        <PropertyRef Name="idRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AlumnoCursos_Cursos">
+    <End Role="Cursos" Type="Self.Cursos" Multiplicity="0..1" />
+    <End Role="AlumnoCursos" Type="Self.AlumnoCursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cursos">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AlumnoCursos">
+        <PropertyRef Name="idCurso" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AlumnoCursos_Usuarios">
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="1" />
+    <End Role="AlumnoCursos" Type="Self.AlumnoCursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usuarios">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AlumnoCursos">
+        <PropertyRef Name="idUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Cursos_Categorias">
+    <End Role="Categorias" Type="Self.Categorias" Multiplicity="0..1" />
+    <End Role="Cursos" Type="Self.Cursos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorias">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cursos">
+        <PropertyRef Name="idCategoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SistemasComprasDBModelStoreContainer">
+    <EntitySet Name="AlumnoCursos" EntityType="Self.AlumnoCursos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Categorias" EntityType="Self.Categorias" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cursos" EntityType="Self.Cursos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Roles" EntityType="Self.Roles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Usuarios__idRol__4AB81AF0" Association="Self.FK__Usuarios__idRol__4AB81AF0">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Usuarios" EntitySet="Usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AlumnoCursos_Cursos" Association="Self.FK_AlumnoCursos_Cursos">
+      <End Role="Cursos" EntitySet="Cursos" />
+      <End Role="AlumnoCursos" EntitySet="AlumnoCursos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AlumnoCursos_Usuarios" Association="Self.FK_AlumnoCursos_Usuarios">
+      <End Role="Usuarios" EntitySet="Usuarios" />
+      <End Role="AlumnoCursos" EntitySet="AlumnoCursos" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Cursos_Categorias" Association="Self.FK_Cursos_Categorias">
+      <End Role="Categorias" EntitySet="Categorias" />
+      <End Role="Cursos" EntitySet="Cursos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

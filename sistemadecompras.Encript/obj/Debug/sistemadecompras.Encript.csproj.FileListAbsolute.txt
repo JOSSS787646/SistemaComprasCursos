@@ -1,0 +1,12 @@
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Encript\bin\Debug\sistemadecompras.Encript.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Encript\bin\Debug\sistemadecompras.Encript.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.csproj.AssemblyReference.cache
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.csproj.CoreCompileInputs.cache
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Encript\bin\Debug\sistemadecompras.Encript.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Encript\bin\Debug\sistemadecompras.Encript.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.csproj.AssemblyReference.cache
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.csproj.CoreCompileInputs.cache
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Encript\obj\Debug\sistemadecompras.Encript.pdb

@@ -1,0 +1,10 @@
+﻿.white-text {
+    color: white;
+}
+
+
+.nav-item.nav-link:hover {
+    background-color: #fff;
+   
+   
+}

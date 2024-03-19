@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\reportepdf\\generar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\reportepdf\\generar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|c:\\users\\vostro\\documents\\uttt\\5to cuatrimestre\\aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\controllers\\reportepdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\controllers\\reportepdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE0AA6-7412-480B-B948-DD9E15329853}|sistemadecompras.Services\\sistemadecompras.Services.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras.services\\infraestructura\\iusuariosservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE0AA6-7412-480B-B948-DD9E15329853}|sistemadecompras.Services\\sistemadecompras.Services.csproj|solutionrelative:sistemadecompras.services\\infraestructura\\iusuariosservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|c:\\users\\vostro\\documents\\uttt\\5to cuatrimestre\\aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|c:\\users\\vostro\\documents\\uttt\\5to cuatrimestre\\aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\content\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|c:\\users\\vostro\\documents\\uttt\\5to cuatrimestre\\aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\content\\_footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\content\\_footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AE0AA6-7412-480B-B948-DD9E15329853}|sistemadecompras.Services\\sistemadecompras.Services.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras.services\\account\\usuariosservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AE0AA6-7412-480B-B948-DD9E15329853}|sistemadecompras.Services\\sistemadecompras.Services.csproj|solutionrelative:sistemadecompras.services\\account\\usuariosservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\controllers\\imagencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\account\\security.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\account\\security.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\views\\imagen\\_subir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E735FC0-1F67-4434-9375-C214789E513E}|sistemadecompras\\sistemadecompras.csproj|solutionrelative:sistemadecompras\\views\\imagen\\_subir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sistemadecompras\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T19:38:49.811Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportePdfController.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\ReportePdfController.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Controllers\\ReportePdfController.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\ReportePdfController.cs",
+              "RelativeToolTip": "sistemadecompras\\Controllers\\ReportePdfController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:11:08.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Content\\Site.css",
+              "RelativeDocumentMoniker": "sistemadecompras\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Content\\Site.css",
+              "RelativeToolTip": "sistemadecompras\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T16:27:36.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Content\\Login.css",
+              "RelativeDocumentMoniker": "sistemadecompras\\Content\\Login.css",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Content\\Login.css",
+              "RelativeToolTip": "sistemadecompras\\Content\\Login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T16:27:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuariosServicios.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras.Services\\Infraestructura\\IUsuariosServicios.cs",
+              "RelativeDocumentMoniker": "sistemadecompras.Services\\Infraestructura\\IUsuariosServicios.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras.Services\\Infraestructura\\IUsuariosServicios.cs",
+              "RelativeToolTip": "sistemadecompras.Services\\Infraestructura\\IUsuariosServicios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:19:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Generar.cshtml",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\ReportePdf\\Generar.cshtml",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\ReportePdf\\Generar.cshtml",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\ReportePdf\\Generar.cshtml",
+              "RelativeToolTip": "sistemadecompras\\Views\\ReportePdf\\Generar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T23:33:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Footer.css",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Content\\_Footer.css",
+              "RelativeDocumentMoniker": "sistemadecompras\\Content\\_Footer.css",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Content\\_Footer.css",
+              "RelativeToolTip": "sistemadecompras\\Content\\_Footer.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T16:26:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosServicios.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras.Services\\Account\\UsuariosServicios.cs",
+              "RelativeDocumentMoniker": "sistemadecompras.Services\\Account\\UsuariosServicios.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras.Services\\Account\\UsuariosServicios.cs",
+              "RelativeToolTip": "sistemadecompras.Services\\Account\\UsuariosServicios.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:19:08.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Startup.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Startup.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Startup.cs",
+              "RelativeToolTip": "sistemadecompras\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:51:10.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImagenController.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\ImagenController.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Controllers\\ImagenController.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\ImagenController.cs",
+              "RelativeToolTip": "sistemadecompras\\Controllers\\ImagenController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:17:42.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "sistemadecompras\\Controllers\\CursosController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T22:32:00.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "sistemadecompras\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAAJkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:30:35.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "sistemadecompras\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:17:06.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Principal.cshtml",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Home\\Principal.cshtml",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\Home\\Principal.cshtml",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Home\\Principal.cshtml",
+              "RelativeToolTip": "sistemadecompras\\Views\\Home\\Principal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T04:49:28.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "sistemadecompras\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T19:59:21.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sistemadecompras\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T05:23:35.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Security.cshtml",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Account\\Security.cshtml",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\Account\\Security.cshtml",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Account\\Security.cshtml",
+              "RelativeToolTip": "sistemadecompras\\Views\\Account\\Security.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T20:12:05.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "sistemadecompras\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "sistemadecompras\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T23:10:16.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Web.config",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Web.config",
+              "RelativeToolTip": "sistemadecompras\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-07T23:29:26.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Subir.cshtml",
+              "DocumentMoniker": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Imagen\\_Subir.cshtml",
+              "RelativeDocumentMoniker": "sistemadecompras\\Views\\Imagen\\_Subir.cshtml",
+              "ToolTip": "C:\\Users\\VOSTRO\\Documents\\UTTT\\5to Cuatrimestre\\Aplicaciones web 14.0\\sistemadecompras\\sistemadecompras\\Views\\Imagen\\_Subir.cshtml",
+              "RelativeToolTip": "sistemadecompras\\Views\\Imagen\\_Subir.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T05:17:34.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

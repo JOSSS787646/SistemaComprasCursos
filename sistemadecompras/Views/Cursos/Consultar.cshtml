@@ -1,0 +1,46 @@
+﻿@using sistemadecompras.ViewModels
+@model ConsultarCursosViewModel
+
+@{
+    ViewBag.Title = "Consultar Cursos";
+}
+
+<h2>Consultar Cursos</h2>
+
+@using (Html.BeginForm("Consultar", "Cursos", FormMethod.Post))
+{
+    <input type="submit" value="Consultar" class="btn btn-primary" />
+}
+
+@if (Model.Cursos != null && Model.Cursos.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Contenido</th>
+                <th>Precio</th>
+                <th>Fecha Inicial</th>
+                <th>Fecha Actualización</th>
+                <th>Imagen del Curso</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var curso in Model.Cursos)
+            {
+                <tr>
+                    <td>@curso.Nombre</td>
+                    <td>@curso.Contenido</td>
+                    <td>@curso.Precio</td>
+                    <td>@curso.FechaInicial.ToShortDateString()</td>
+                    <td>@curso.FechaActualizacion.ToShortDateString()</td>
+                    <td><img src="@curso.UrlImagenCurso" alt="@curso.Nombre" style="max-width: 100px; max-height: 100px;" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay cursos disponibles.</p>
+}

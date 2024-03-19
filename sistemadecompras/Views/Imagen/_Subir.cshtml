@@ -1,0 +1,60 @@
+﻿<style>
+
+
+    h2 {
+        color: blue;
+    }
+
+    .card {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        height: 400px;
+        width: 300px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input[type="file"] {
+        display: block;
+    }
+
+    button[type="submit"] {
+        display: block;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+<div class="contenedor">
+    <div class="card">
+        <h2>Crear Curso</h2>
+        @using (Html.BeginForm("SubirFoto", "Imagen", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-group">
+                <label for="foto">Seleccione una foto:</label>
+                <input type="file" id="foto" name="foto" class="form-control" accept="image/*" required>
+            </div>
+            <div class="form-group">
+                <label for="nuevoNombre">Nombre personalizado:</label>
+                <input type="text" id="nuevoNombre" name="nuevoNombre" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-primary">Subir Foto</button>
+        }
+    </div>
+
+</div>
+
+

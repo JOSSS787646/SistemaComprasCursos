@@ -1,0 +1,36 @@
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.dll.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.AssemblyReference.cache
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.CoreCompileInputs.cache
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemad.A1E7C7CA.Up2Date
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.dll.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.AssemblyReference.cache
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.CoreCompileInputs.cache
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.CopyComplete
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.dll.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\sistemadecompras.Models.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.csproj.CopyComplete
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras.Models\obj\Debug\sistemadecompras.Models.pdb

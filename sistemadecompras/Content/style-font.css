@@ -1,0 +1,24 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+}
+.titulo-font-letter{
+    font-family:'Sans Serif ';
+    font-style:italic;
+    font-weight:500;
+}
+#header-nav {
+    background-color: #13161C !important;
+    color: white;
+}
+
+
+.link:hover{
+    opacity:0.5;
+    color:#FC7643 !important;
+}
+.font-title-little-dark-blue{
+    font-family:'Roboto',sans-serif;
+    font-weight:400;
+    color:brown;
+    font-size:small;
+}

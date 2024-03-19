@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "Generar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .centered-card {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .card {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-title {
+        margin-bottom: 20px;
+        font-size: 24px;
+        color: #333;
+        font-family: 'Arial', sans-serif; 
+
+    }
+
+    .btn {
+        margin-bottom: 20px;
+        background-color:blue;
+        color:aliceblue;
+    }
+</style>
+
+<div class="centered-card">
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title">Generar</h2>
+
+
+            <button id="btnGenerarPdf" class="btn ">Generar PDF</button>
+
+           
+        </div>
+    </div>
+</div>
+<object data="@Url.Action("Pdf", "ReportePdf")" type="application/pdf" width="100%" height="600">
+    <p>Lo siento, tu navegador no puede mostrar este PDF. Puedes <a href="@Url.Action("Imprimir", "ReportePdf")">descargarlo aquí</a> en su lugar.</p>
+</object>
+
+
+@section Scripts {
+    <script>
+$(function () {
+    $('#btnGenerarPdf').click(function () {
+
+        window.print();
+            
+        });
+    });</script>
+}
+
+

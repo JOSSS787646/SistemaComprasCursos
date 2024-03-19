@@ -1,0 +1,899 @@
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll.config
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\sistemadecompras.pdb
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe.config
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\csc.rsp
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe.config
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\csi.rsp
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.AppContext.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Console.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Http.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.ValueTuple.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe.config
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\vbc.rsp
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Razor.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\WebGrease.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.Razor.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.pdb
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.Razor.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.AssemblyReference.cache
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CoreCompileInputs.cache
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CopyComplete
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.dll
+C:\Users\VOSTRO\Documents\Universidad Tecnologica Tula-Tepeji\5to Cuatrimestre\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\NLog.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\grpc_csharp_ext.x86.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\grpc_csharp_ext.x64.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\libgrpc_csharp_ext.x64.so
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\csc.rsp
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\csi.rsp
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.AppContext.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Console.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Http.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Sockets.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.ValueTuple.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\vbc.rsp
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\AutoMapper.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\BouncyCastle.Crypto.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\EntityFramework.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\EntityFramework.SqlServer.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.LongRunning.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Protobuf.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Auth.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Core.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\itextsharp.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\NLog.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Owin.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Encript.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Buffers.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.CodeDom.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Collections.Immutable.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Linq.Async.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Memory.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Numerics.Vectors.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.ValueTuple.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Razor.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\WebGrease.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Encript.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.dll.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.dll.config
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\AutoMapper.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\AutoMapper.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\EntityFramework.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\EntityFramework.SqlServer.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.LongRunning.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.LongRunning.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Protobuf.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Google.Protobuf.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Auth.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Auth.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Core.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Core.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\itextsharp.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\NLog.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Buffers.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.CodeDom.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Collections.Immutable.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Linq.Async.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Memory.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Numerics.Vectors.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.ValueTuple.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.Razor.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.pdb
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.Razor.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.AssemblyReference.cache
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CoreCompileInputs.cache
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\obj\Debug\sistemad.EBE04798.Up2Date
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.dll
+C:\Users\VOSTRO\Documents\UTTT\5to Cuatrimestre\Aplicaciones web 14.0\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.AssemblyReference.cache
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CoreCompileInputs.cache
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\NLog.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\grpc_csharp_ext.x86.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\grpc_csharp_ext.x64.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csc.rsp
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csi.rsp
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.AppContext.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Console.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Http.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\vbc.rsp
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\AutoMapper.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\BouncyCastle.Crypto.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.SqlServer.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.Auth.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.Storage.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\FirebaseAuth.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.LongRunning.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Protobuf.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Auth.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\itextsharp.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\jose-jwt.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\LiteDB.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Options.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Win32.Registry.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\NLog.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Owin.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Encript.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Buffers.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.CodeDom.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Collections.Immutable.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Linq.Async.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Memory.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Numerics.Vectors.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Reactive.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Security.AccessControl.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Security.Principal.Windows.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Text.Encodings.Web.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.ValueTuple.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Razor.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\WebGrease.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Encript.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.dll.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.dll.config
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\AutoMapper.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\AutoMapper.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\BouncyCastle.Crypto.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.SqlServer.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.Auth.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.LongRunning.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.LongRunning.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Protobuf.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Protobuf.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Auth.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Auth.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\itextsharp.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\LiteDB.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Options.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\NLog.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Buffers.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.CodeDom.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Collections.Immutable.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Linq.Async.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Memory.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Numerics.Vectors.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Reactive.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Text.Encodings.Web.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.ValueTuple.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Razor.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.pdb
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Razor.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CopyComplete
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.dll
+C:\Users\Andrik\Documents\Documentos\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\NLog.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\grpc_csharp_ext.x86.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\grpc_csharp_ext.x64.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\libgrpc_csharp_ext.x64.so
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csc.exe.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csc.rsp
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csi.exe.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\csi.rsp
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.AppContext.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Console.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Http.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Net.Sockets.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.ValueTuple.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\vbc.exe.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\vbc.rsp
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\AutoMapper.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\BouncyCastle.Crypto.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.SqlServer.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.Auth.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.Storage.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\FirebaseAuth.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.LongRunning.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Protobuf.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Auth.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\itextsharp.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\jose-jwt.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\LiteDB.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Options.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Win32.Registry.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\NLog.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Owin.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Encript.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Buffers.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.CodeDom.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Collections.Immutable.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Linq.Async.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Memory.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.Formatting.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Numerics.Vectors.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Reactive.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Security.AccessControl.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Security.Cryptography.Xml.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Security.Principal.Windows.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Text.Encodings.Web.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.ValueTuple.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Razor.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\WebGrease.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Encript.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Models.dll.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\sistemadecompras.Services.dll.config
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\AutoMapper.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\AutoMapper.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\BouncyCastle.Crypto.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\EntityFramework.SqlServer.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Firebase.Auth.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.CommonProtos.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Grpc.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Api.Gax.Rest.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Auth.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Core.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Apis.Storage.v1.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Firestore.V1.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Location.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Cloud.Storage.V1.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.LongRunning.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.LongRunning.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Protobuf.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Google.Protobuf.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Auth.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Auth.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Core.Api.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Client.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Grpc.Net.Common.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\itextsharp.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\LiteDB.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Options.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Newtonsoft.Json.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\NLog.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Buffers.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.CodeDom.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Collections.Immutable.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Linq.Async.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Memory.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.Formatting.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Numerics.Vectors.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Reactive.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Text.Encodings.Web.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.ValueTuple.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Helpers.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Mvc.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Optimization.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.Razor.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Deployment.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\System.Web.WebPages.Razor.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Antlr3.Runtime.pdb
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Helpers.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Mvc.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Optimization.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.Razor.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.csproj.CopyComplete
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.dll
+C:\Users\josea\source\repos\sistemadecomprasAvance\sistemadecompras\sistemadecompras\sistemadecompras\obj\Debug\sistemadecompras.pdb
